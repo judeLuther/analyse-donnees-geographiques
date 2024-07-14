@@ -1,5 +1,8 @@
 # Projet: Analyse des données géographiques
 
+## Auteurs
+- **LECKOMBA Jude Luther**
+
 Ce projet consiste à analyser des données géographiques en utilisant les données de Meteo France pour identifier des personnes situées dans des communes où des alertes météorologiques sont en vigueur.
 
 ![Resultat du projet](images/result.png)
